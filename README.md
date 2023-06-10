@@ -13,7 +13,7 @@ INSTALACION TERMUX OPCION 1 (GitHub)
 
 > apt install imagemagick -y
 
-> git clone https://github.com/Xapifi/JhuszBotV1.git
+> gh repo clone Xapifi/JhuszBotV1
 
 > cd JhuszBotV1
 
